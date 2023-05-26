@@ -1,0 +1,17 @@
+.js_logo{
+    width: 100px;
+    height: 100px;
+    border-right: solid transparent 30px;
+}
+
+header{
+    background-color: burlywood;
+}
+
+main{
+    background-color: peachpuff;
+}
+
+footer{
+    background-color: burlywood;
+}
